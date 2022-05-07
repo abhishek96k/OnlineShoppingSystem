@@ -84,6 +84,6 @@ fill each filed with your info respectively
 <table>
   <tr>
     <td align="center"><a href="https://github.com/abhishek96k"><img src="https://avatars.githubusercontent.com/abhishek96k" width="100px;" alt=""/><br /><sub><b>Abhishek Nalawade</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/abhishek96k"><img src="https://avatars.githubusercontent.com/abhishek96k" width="100px;" alt=""/><br /><sub><b>Abhishek Nalawade</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Saurabh2932000"><img src="https://avatars.githubusercontent.com/Saurabh2932000" width="100px;" alt=""/><br /><sub><b>Saurabh Jadhav</b></sub></a><br /></td>
   </tr>
 </table>
